@@ -11,7 +11,7 @@ st.image(
     width=120,
 )
 
-st.header("Opacidad pulmonar y su mascara")
+st.header("Opacidad pulmonar y su mascara- hello wolrd")
 
 uploaded_files = st.file_uploader("Subir una imagen", accept_multiple_files=True)
 for uploaded_file in uploaded_files:
